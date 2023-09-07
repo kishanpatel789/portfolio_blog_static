@@ -1,0 +1,16 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+#profile-pic {
+    max-width: 300px;
+}
+
+#name {
+    font-weight: 500;
+}
+
+#tag-line {
+    font-weight:100;
+    /* white-space: pre; */
+}
