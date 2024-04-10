@@ -9,3 +9,7 @@ body {
 .tag-line {
     font-weight:100;
 }
+
+.icon {
+    height: 3em;
+}
